@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">COVID19</string>
+    <string name="covid_ind">COVID 19 - India</string>
+    <string name="who">WHO</string>
+    <string name="news">Latest News</string>
+    <string name="google_data">Information and Resources</string>
+    <string name="spread_positivity">Spread Positivity</string>
+</resources>
